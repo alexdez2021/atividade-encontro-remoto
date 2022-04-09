@@ -1,2 +1,3 @@
 Primeira linha do codigo adicionado
 Segunda linha do codigo adicionado //analista-a reditando o arquivo versao
+Terceira linha do codigo adicionado // analista-b editando o arquivo versao
